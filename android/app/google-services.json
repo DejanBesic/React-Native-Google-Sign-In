@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "15706365710",
+    "firebase_url": "https://exim-f46f6.firebaseio.com",
+    "project_id": "exim-f46f6",
+    "storage_bucket": "exim-f46f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15706365710:android:274001983373dfe7",
+        "android_client_info": {
+          "package_name": "com.exim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15706365710-o75m0aefs066ljgmcarg5gnq3rs9kppp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exim",
+            "certificate_hash": "03ac45cb2339fffe2604926768a3e9a153bd4265"
+          }
+        },
+        {
+          "client_id": "15706365710-nu6p5kvg5oee7rv0g7v7vcl8utligein.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPpFODBAA4eh8-PbsyYTRZ9guBfGU3X44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15706365710-nu6p5kvg5oee7rv0g7v7vcl8utligein.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
